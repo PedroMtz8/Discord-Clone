@@ -55,7 +55,7 @@ export default function InitialModal(){
       <DialogContent className='bg-white text-black p-0 overflow-hidden'>
         <DialogHeader className='pt-8 px-6 '>
           <DialogTitle className='text-2xl text-center font-bold '>
-            Customize your server
+            Customize your server 
           </DialogTitle>
           <DialogDescription className='text-center text-zinc-500'>
             Give your server a name and an optional description
